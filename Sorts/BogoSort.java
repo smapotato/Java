@@ -53,5 +53,6 @@ public class BogoSort implements SortAlgorithm {
         String[] strings = {"c", "a", "e", "b","d"};
 
         SortUtils.print(bogoSort.sort(strings));
+        1
     }
 }
