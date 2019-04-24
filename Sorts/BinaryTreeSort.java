@@ -92,5 +92,6 @@ public class BinaryTreeSort implements SortAlgorithm {
 		print(treeSort.sort(stringArray));
 	}
 	890
+	567
 }
 
