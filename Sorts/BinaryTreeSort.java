@@ -91,6 +91,6 @@ public class BinaryTreeSort implements SortAlgorithm {
 		String[] stringArray = {"c", "a", "e", "b","d", "dd","da","zz", "AA", "aa","aB","Hb", "Z"};
 		print(treeSort.sort(stringArray));
 	}
-	224
+	890
 }
 
